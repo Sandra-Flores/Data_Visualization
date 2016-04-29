@@ -1,0 +1,65 @@
+San Francisco:  37.7749° N, 122.4194° W 
+Los Angeles:  34.0522° N, 118.2437° W
+Fresno:  36.7468° N, 119.7726° W
+Bakersfield:  35.3733° N, 119.0187° W
+Santa Cruz:  36.9741° N, 122.0308° W
+Chico:  39.7285° N, 121.8375° W
+Barstow:  34.8958° N, 117.0173° W
+Blythe:  33.6178° N, 114.5883° W
+Burbank:  34.1808° N, 118.3090° W
+Concord:  37.9780° N, 122.0311° W
+Covina:  34.0900° N, 117.8903° W
+Crescent City:  41.7558° N, 124.2026° W
+Downey:  33.9401° N, 118.1332° W
+El Cajon:  32.7948° N, 116.9625° W
+El Cerrito:  37.9161° N, 122.3108° W
+Escondido:  33.1192° N, 117.0864° W
+Eureka:  40.8021° N, 124.1637° W
+Fairfield:  38.2494° N, 122.0400° W
+Hamilton:  43.2500° N, 79.8661° W
+Laguna Beach:  33.5422° N, 117.7831° W
+Livermore:  37.6819° N, 121.7680° W
+Lompoc:  34.6392° N, 120.4579° W
+Long Beach:  33.7701° N, 118.1937° W
+Merced:  37.3022° N, 120.4830° W
+Modesto:  37.6391° N, 120.9969° W
+Monterey:  36.6002° N, 121.8947° W
+Napa:  38.2975° N, 122.2869° W
+Needles:  34.8481° N, 114.6141° W
+Oakland:  37.8044° N, 122.2711° W
+Oceanside:  33.1959° N, 117.3795° W
+Ontario:  34.0633° N, 117.6509° W
+Oxnard:  34.1975° N, 119.1771° W
+Palmdale: 34.5794° N, 118.1165° W
+Palm Springs:  33.8303° N, 116.5453° W
+Pasadena:  34.1478° N, 118.1445° W
+Petaluma:  38.2324° N, 122.6367° W
+Pomona:  34.0551° N, 117.7500° W
+Redding: 40.5865° N, 122.3917° W
+Redlands:  34.0556° N, 117.1825° W
+Richmond:  37.5407° N, 77.4360° W
+Riverside:  33.9533° N, 117.3962° W
+Sacramento:  38.5816° N, 121.4944° W
+Salinas:  36.6777° N, 121.6555° W
+San Bernardino:  34.1083° N, 117.2898° W
+San Diego:  32.7157° N, 117.1611° W
+San Fernando:  34.2819° N, 118.4390° W
+San Jose:  37.3382° N, 121.8863° W
+San Luis Obispo:  35.2828° N, 120.6596° W
+Santa Ana:  33.7456° N, 117.8678° W
+Santa Barbara:  34.4208° N, 119.6982° W
+Santa Cruz:  36.9741° N, 122.0308° W
+Santa Maria:  34.9530° N, 120.4357° W
+Santa Monica:  34.0195° N, 118.4912° W
+Santa Paula:  34.3542° N, 119.0593° W
+Santa Rosa:  38.4404° N, 122.7141° W
+Stockton:  37.9577° N, 121.2908° W
+Ukiah:  39.1502° N, 123.2078° W
+Visalia:  36.3302° N, 119.2921° W
+Yreka:  41.7354° N, 122.6345° W
+Yuba City:  39.1404° N, 121.6169° W
+
+
+
+
+
